@@ -1,4 +1,4 @@
-## Spectrum analizer
+## Spectrum analyzer
 
 Spectrum analyzer of WAV signals based on Fast Fourier Transform and written in Go
 
